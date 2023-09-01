@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### Estudante de Ciência da Computação!
+### Estudante de Sistemas para Internet!
 </div>
 
 ##
